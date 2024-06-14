@@ -1,8 +1,5 @@
 To run the provided keylogger code on a Linux system and upload it to GitHub, follow these steps:
 
-README.txt
-txt
-Copy code
 # Keylogger
 
 This is a simple keylogger that logs keystrokes and sends the log to a specified email address when the ESC key is pressed.
